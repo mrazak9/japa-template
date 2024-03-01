@@ -340,7 +340,7 @@ button:hover {
   /* Background transparan */
   outline: none;
   text-shadow: none;
-  margin: 0 auto;
+  margin-left: 40px;
   margin-top: 20px;
   box-shadow: 3px 8px 12px rgba(0, 0, 0, .3);
   cursor: pointer;
@@ -3368,7 +3368,7 @@ html {
 }
 
 .scrollable-text {
-  max-height: 380px;
+  max-height: 340px;
   /* Ubah sesuai kebutuhan */
   overflow-y: auto;
   /* Membuat scrollbar vertikal muncul ketika konten melebihi ketinggian maksimum */
